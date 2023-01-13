@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_aesteroid_huge",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_aesteroid_huge",
+    "path": "sprites/spr_aesteroid_huge/spr_aesteroid_huge.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

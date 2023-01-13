@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_aesteroid_med",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_aesteroid_med",
+    "path": "sprites/spr_aesteroid_med/spr_aesteroid_med.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
