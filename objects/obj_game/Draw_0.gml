@@ -28,7 +28,7 @@ switch(room){
 		draw_set_halign(fa_center)
 		var c = c_lime; 
 		draw_text_transformed_color(
-			room_width/2, 200, "YOU WON!", 
+			room_width/2, 100, "YOU WON!", 
 			3, 3, 0,c,c,c,c, 1
 		);
 		draw_text(
